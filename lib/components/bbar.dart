@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:uikitty/uikitty.dart';
-export 'package:vize/vize.dart';
-export 'package:flutter_svg/flutter_svg.dart';
+import 'package:vize/vize.dart';
+import 'package:flutter_svg/flutter_svg.dart';
 
 /*
   15-10-2026
